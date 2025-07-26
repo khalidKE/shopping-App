@@ -102,6 +102,10 @@ lib/
 - ✅ Responsive design implementation
 - ✅ Clean and formatted codebase
 
+## Screens
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/c7140755-01bd-495d-9712-f7bbe71017f1" />
+<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/903c3de2-ec92-4a89-805f-95e03f2ab1d7" />
+<img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/5ac2da33-d333-48f5-b0ff-b094a4419d8d" />
 
 
 ## Contributing
