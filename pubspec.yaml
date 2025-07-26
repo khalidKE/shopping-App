@@ -1,0 +1,38 @@
+name: flutter_shopping_app
+description: A comprehensive Flutter shopping application with authentication, product display, and Arabic localization.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.2
+  flutter_gen: ^5.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    # - assets/images/
+    # - assets/fonts/
+
+  # fonts:
+  #   - family: Suwannaphum
+  #     fonts:
+  #       - asset: assets/fonts/Suwannaphum-Regular.ttf
+  #         weight: 400
